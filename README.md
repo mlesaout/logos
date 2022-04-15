@@ -5,6 +5,9 @@ All the logos are optimized (removed duplicated paths / excessive grouping / emp
 
 [View All on svgporn.com](http://svgporn.com)
 
+[Use it with <img src="https://images.squarespace-cdn.com/content/v1/576dc6d2579fb313163ccfa0/1524922049476-UE1GUAQT1VWB38YB5TQ1/DrawIO.png?format=750w" width="70">](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmlesaout%2Fdrawio-libs%2Fmain%2Fsvgporn.xml)
+
+
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
 Please add your requests in the issues preferably with links to the vector files.
